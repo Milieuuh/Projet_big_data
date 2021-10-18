@@ -1,0 +1,3 @@
+#!c:\users\emilie genton\documents\esirem\5a\semestre9\big_data\projet\code\venv\scripts\python.exe
+from spark import spark_admin
+spark_admin.main()
